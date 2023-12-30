@@ -1,5 +1,5 @@
-[submodule "자바 코딩의 기술"]
-	path = java-coding-techniques
+[submodule "java-coding-techniques"]
+	path = 자바 코딩의 기술
 	url = https://github.com/star-books-coffee/java-coding-techniques
 [submodule "object"]
 	path = object
