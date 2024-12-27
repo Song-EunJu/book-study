@@ -10,3 +10,35 @@
 [submodule "effective-java-book"]
 	path = effective-java-book
 	url = https://github.com/Yooa-Backend-Study/effective-java-book
+[submodule "server-structure-and-technology"]
+	path = server-structure-and-technology
+	url = https://github.com/star-books-study/server-structure-and-technology
+[submodule "the-programmers-brain"]
+	path = the-programmers-brain
+	url = https://github.com/star-books-study/the-programmers-brain
+[submodule "tobys-spring"]
+	path = tobys-spring
+	url = https://github.com/star-books-study/tobys-spring
+[submodule "http-network-basic"]
+	path = http-network-basic
+	url = https://github.com/star-books-study/http-network-basic
+[submodule "troubleshooting-java"]
+	path = troubleshooting-java
+	url = https://github.com/star-books-study/troubleshooting-java
+[submodule "tidy-first"]
+	path = tidy-first
+	url = https://github.com/star-books-study/tidy-first
+[submodule "docs-for-developer"]
+	path = docs-for-developer
+	url = https://github.com/star-books-study/docs-for-developer
+[submodule "great-IT-english"]
+	path = great-IT-english
+	url = https://github.com/star-books-study/great-IT-english
+[submodule "object-oriented-facts-and-misconceptions"]
+	path = object-oriented-facts-and-misconceptions
+	url = https://github.com/lab-of-song/object-oriented-lab
+[submodule "system-design"]
+	path = system-design
+	url = https://github.com/lab-of-song/system-design-study
+
+
