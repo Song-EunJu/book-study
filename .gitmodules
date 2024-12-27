@@ -42,3 +42,9 @@
 	url = https://github.com/lab-of-song/system-design-study
 
 
+[submodule "object-oriented-lab"]
+	path = object-oriented-lab
+	url = https://github.com/lab-of-song/object-oriented-lab
+[submodule "system-design-study"]
+	path = system-design-study
+	url = https://github.com/lab-of-song/system-design-study
